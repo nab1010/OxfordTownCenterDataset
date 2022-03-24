@@ -20,7 +20,7 @@ file **image.txt**:
 
 while:
 
-* $xCenterBBoxYOLO = xCenterBBox/imageWidth$
-* $yCenterBBoxYOLO = yCenterBBox/imageHeight$
-* $wBBoxYOLO = wBBox/imageWidth$
-* $yBBoxYOLOYOLO = yBBox/imageHeight$
+* $$xCenterBBoxYOLO = xCenterBBox/imageWidth$$
+* $$yCenterBBoxYOLO = yCenterBBox/imageHeight$$
+* $$wBBoxYOLO = wBBox/imageWidth$$
+* $$yBBoxYOLOYOLO = yBBox/imageHeight$$
