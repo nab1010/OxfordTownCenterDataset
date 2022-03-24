@@ -1,3 +1,5 @@
+
+personNumber,frameNumber,headValid,bodyValid,headLeft,headTop,headRight,headBottom,bodyLeft,bodyTop,bodyRight,bodyBottom
 0,0,1,1,270.828,794.098,309.037,834.066,235.925,770.142,371.546,1101.029
 1,0,1,1,308.304,302.982,330.837,326.823,285.748,291.418,370.556,493.414
 2,0,1,1,307.919,241.003,328.645,262.841,286.849,230.501,365.794,416.410
