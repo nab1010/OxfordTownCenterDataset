@@ -9,3 +9,11 @@
 
 | **personNumber** | **frameNumber** | **headValid** | **bodyValid** | **headLeft** | **headTop** | **headRight** | **headBottom** | **bodyLeft** | **bodyTop** | **bodyRight** | **bodyBottom** |
 |---|---|---|---|---|---|---|---|---|---|---|---|
+
+
+### YOLO Dataset Format
+
+file **image.txt**:
+
+| **class** | **x_center** | **y_center** | **w** | **h** | 
+|---|---|---|---|---|
