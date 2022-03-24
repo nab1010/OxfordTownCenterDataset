@@ -15,5 +15,12 @@
 
 file **image.txt**:
 
-| **class** | **x_center** | **y_center** | **w** | **h** | 
+| **class** | **xCenterBBoxYOLO** | **yCenterBBoxYOLO** | **wBBoxYOLO** | **hBBoxYOLO** | 
 |---|---|---|---|---|
+
+while:
+
+* $xCenterBBoxYOLO = xCenterBBox/imageWidth$
+* $yCenterBBoxYOLO = yCenterBBox/imageHeight$
+* $wBBoxYOLO = wBBox/imageWidth$
+* $yBBoxYOLOYOLO = yBBox/imageHeight$
