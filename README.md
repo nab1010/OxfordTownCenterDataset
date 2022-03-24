@@ -20,9 +20,9 @@ file **image.txt**:
 
 while:
 
-```math 
-xCenterBBoxYOLO = xCenterBBox/imageWidth 
-```
+\begin{equation*}
+xCenterBBoxYOLO & = xCenterBBox/imageWidth 
+\end{equation*}
 ```math
 yCenterBBoxYOLO = yCenterBBox/imageHeight
 ```
