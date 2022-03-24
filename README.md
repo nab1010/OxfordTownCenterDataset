@@ -20,9 +20,9 @@ file **image.txt**:
 
 while:
 
-\begin{equation*}
-xCenterBBoxYOLO & = xCenterBBox/imageWidth 
-\end{equation*}
+```math 
+xCenterBBoxYOLO = xCenterBBox/imageWidth 
+```
 ```math
 yCenterBBoxYOLO = yCenterBBox/imageHeight
 ```
@@ -31,4 +31,14 @@ wBBoxYOLO = wBBox/imageWidth
 ```
 ```math
 yBBoxYOLOYOLO = yBBox/imageHeight
+```
+
+### Install package
+#### pip
+```console
+pip install -r requirements.txt
+```
+#### conda
+```console
+conda install --file requirements.txt
 ```
